@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pl.polsl.tetris.michal.urbanek.controller"},{"l":"pl.polsl.tetris.michal.urbanek.model"},{"l":"pl.polsl.tetris.michal.urbanek.view"}]
